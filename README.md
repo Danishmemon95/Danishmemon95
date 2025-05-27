@@ -19,7 +19,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="www.linkedin.com/in/danish-loya-9555d" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/danish-loya-9555d" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
   <a href="mailto:danishmemon681@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
   <a href="https://github.com/danishmemon95" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="30" width="30" /></a>
 </p>
